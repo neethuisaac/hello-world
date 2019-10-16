@@ -1,5 +1,5 @@
 # hello-world
-Learning to us GitHub
+Learning to use GitHub
 This is my first repository. I am learning GitHub
 Fourth line added in master branch.
 I am editing the readme file from the branch readme-edits. 
